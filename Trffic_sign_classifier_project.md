@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 
-![pictiure](): # (Image References)
+![pictiure](ImageForTest_My/1.png):
 
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
