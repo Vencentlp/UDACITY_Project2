@@ -128,8 +128,12 @@ For image classification, convolution layer works better because it can encode c
 
 Here are six German traffic signs that I found on the web:
 
-![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/1.png) ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/2.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/3.png] 
-![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/4.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/5.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/6.png]
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/1.png) 
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/2.png) 
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/3.png) 
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/4.png)
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/5.png)
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/6.png)
 
 The fourth image might be difficult to classify because it has more properties.
 
