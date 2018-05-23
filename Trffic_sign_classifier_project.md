@@ -55,7 +55,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how many exmples per label.
 
-![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/image_inRDME/imageLabelHistogram.png]
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/image_inRDME/imageLabelHistogram.png)
 
 ### Design and Test a Model Architecture
 
@@ -64,7 +64,7 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 As a first step, I decided to convert the images to grayscale because the color will not influence the result of the model. To handle with gray images will save the training time and memory.
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][./image_inRDME/colorandgraycompare.png]
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/image_inRDME/colorandgraycompare.png)
 
 As a last step, I normalized the image data because data normalization will make the data has slim distribution and make it easier to train.
 
@@ -128,8 +128,8 @@ For image classification, convolution layer works better because it can encode c
 
 Here are six German traffic signs that I found on the web:
 
-![alt text][./ImageForTest_my/1.png] ![alt text][./ImageForTest_my/2.png] ![alt text][./ImageForTest_my/3.png] 
-![alt text][./ImageForTest_my/4.png] ![alt text][./ImageForTest_my/5.png] ![alt text][./ImageForTest_my/6.png]
+![alt text](https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/1.png) ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/2.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/3.png] 
+![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/4.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/5.png] ![alt text][https://github.com/Vencentlp/UDACITY_Project2/raw/master/ImageForTest_my/6.png]
 
 The fourth image might be difficult to classify because it has more properties.
 
