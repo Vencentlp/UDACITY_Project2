@@ -55,7 +55,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how many exmples per label.
 
-![alt text][UDACITY_Project2/image_inRDME/imageLabelHistogram.png]
+![alt text][https://github.com/Vencentlp/UDACITY_Project2/tree/master/image_inRDME/imageLabelHistogram.png]
 
 ### Design and Test a Model Architecture
 
